@@ -55,6 +55,7 @@ const Chat = ({ location }) => {
 
   return (
     <div className="outerContainer">
+      <video src='/video-1.mp4' autoPlay loop muted />
       <div className="container">
           <InfoBar room={room} />
           <Messages messages={messages} name={name} />
