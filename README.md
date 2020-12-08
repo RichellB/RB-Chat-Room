@@ -2,7 +2,7 @@
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+![Chat Application](https://cdn.dribbble.com/users/420317/screenshots/6195864/friend.jpg)
 
 ## Summary
 
