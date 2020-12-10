@@ -9,4 +9,4 @@ This chat app was built using Reactjs frontend framework while incorporating web
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
-### [Live Site](https://rb-chat-room.herokuapp.com)
+### [Live Site](https://5fd1f97257ada6dc483f5255--naughty-ramanujan-91b45f.netlify.app/)
